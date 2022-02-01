@@ -10,5 +10,5 @@ Java projekts, kurs realize metama kaulinu mesanu.
 - [x] Lokala projekta izvietosana GitHub
 - [x] Papildinats GitHub kratuves saturs ieguts lokalai lietosanai.
 - [ ] Projektam piesledzies vel viens programmetajs un izmeginata kopdarbosanas (forking un clone)
-- [ ] Projekta izveidots jauna zars (branch)
+- [x] Projekta izveidots jauna zars (branch)
 - [ ] Sapludinati zari un noversts merge konflikts
